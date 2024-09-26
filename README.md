@@ -1,1 +1,2 @@
 # LEARNING-MACHINE
+La idea es que el software pueda identificar la calidad de los productos para que asi mismo pueda evaluar el precio lo cual seria bastante util para programas de compra-venta o subastas.
